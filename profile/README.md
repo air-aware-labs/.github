@@ -1,8 +1,8 @@
-## Why Air Aware Labs?
+# Why Air Aware Labs?
 
 We make air pollution visible - we link it to you and your health and enable you to make healthier choices
 
-# Our vision
+## Our vision
 
 Our vision is a world where everyone can access clean air. Where knowledge of exposure leads to better health for everyone. Where the invisible becomes visible
 
